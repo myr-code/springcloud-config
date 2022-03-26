@@ -1,2 +1,2 @@
-name:
-     config-dev.yml
+config:
+     name:config-dev.yml version=1

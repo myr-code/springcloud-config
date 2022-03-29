@@ -1,5 +1,5 @@
 config:
-  info: config-dev.yml version = 6
+  info: config-dev.yml version = 7
 
 eureka:
   client:
